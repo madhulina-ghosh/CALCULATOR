@@ -2,7 +2,7 @@
 
 A simple and responsive web-based calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations with real-time results and a user-friendly interface. It is designed to strengthen frontend development skills and JavaScript logic handling.
 
-🚀 Features
+## 🚀 Features
 
 - Addition, Subtraction, Multiplication, Division
 
@@ -14,7 +14,7 @@ A simple and responsive web-based calculator built using HTML, CSS, and JavaScri
 
 - Clean and beginner-friendly UI
 
-  🛠 Technologies Used
+  ## 🛠 Technologies Used
 
 HTML – Structure of the application
 
